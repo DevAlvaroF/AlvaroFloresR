@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="./src/django.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="./src/flask.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./src/git.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./src/github.svg" />
 
 <br />
 
