@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlvaroFloresR
 - 👀 I’m interested in Machine Learning, Software Development, Deep Space Exploration, Astronomy and Meditation
-- 🌱 My Dream is to work @NASA or @ESA 
+- 🌱 My Dream is to work on something valuable for society
 - 💞️ I like to keep learning so new languages are always being added in the list below
 
 #### More about me BELOW
