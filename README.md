@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="./src/html.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="./src/css.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="./src/django.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="./src/flask.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./src/git.svg" />
 
 <br />
